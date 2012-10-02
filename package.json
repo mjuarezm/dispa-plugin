@@ -1,0 +1,29 @@
+{
+    "name": "goopir", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "IIIA-CSIC", 
+    "version": "0.1", 
+    "fullName": "GooPIR", 
+    "id": "ares@iiia.csic", 
+    "description": "This add-on makes google queries more private",
+    "preferences": [
+        {
+            "type": "integer",
+            "name": "k",
+            "value": 3,
+            "title": "Number of boggus words"
+        },
+        {
+            "type": "string",
+            "name": "e",
+            "value": "0.00001",
+            "title": "Threshold of the interval" 
+        },
+        {
+            "type": "integer",
+            "name": "numRes",
+            "value": 50,
+            "title": "Number of results" 
+        }
+    ]    
+}
