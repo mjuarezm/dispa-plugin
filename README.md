@@ -1,12 +1,11 @@
-<<<<<<< HEAD
-This is the goopir add-on.  It contains:
+=======
+DisPA - readme
+======
+This is the DisPA add-on for Firefox. DisPA is a Dissociative Privacy Agent for web searches that is being 
+developed using the FF add-on SDK.
+It contains:
 
 * A program (lib/main.js).
 * A few tests.
 * Some meager documentation.
-=======
-DisPA
-=====
-
-The Dissociative Privacy Agent for Web searches
->>>>>>> 0ad464a3a35d7e9f2b978020fa353304ced1e142
+* 
